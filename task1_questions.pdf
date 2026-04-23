@@ -1,0 +1,59 @@
+Q1. Write a program to print the integer value 10.
+
+Q2. Print three integers 5, 10, 15 in a single line.
+
+Q3. Assign the string "Dhananjay Puri" to a variable named name and print it.
+
+Q4. Store your first name and last name in two separate variables and print them together.
+
+Q5. Use the .format() method to print: "My name is [name] and I live in [city]".
+
+Q6. Use an f-string to display the message: "My age is [age]".
+
+Q7. Assign values 1, 2, 3 to variables a, b, c and print them separated by a pipe symbol (|).
+
+Q8. Output the literal string "Python and Rocks!".
+
+Q9. Declare two numbers and print their sum with a descriptive label.
+
+Q10. Write a script that takes a user's name as input and greets them.
+
+Q11. Assign a city name to a variable and print it.
+
+Q12. Value Swapping: Swap the values of num1 and num2 using a temporary variable.
+
+Q13. Perform multiple assignments in one line for variables i, j, k (two integers and one string) and print them separately.
+
+Q14. Assign the value "Red" to three different variables in a single line and print all three.
+
+Q15. Create a float variable and use the type() function to print its data type.
+
+Q16. Combine a string variable (name) and an integer variable (age) into a single print statement.
+
+Q17. Multiply two integers and print the result.
+
+Q18. Assign a boolean value True to a variable named is_python_fun and print it.
+
+Q19. Assignment Operators: Increase the value of variable x by 5 using the += operator.
+
+Q20. Object Identity: Assign the same value to three variables, print their id(), change one variable, and observe the memory address change.
+
+Q21. Initialize five variables to 0 in one line, print their memory IDs, update one, and print the new ID.
+
+Q22. Define a variable x, print it, and then use the del keyword to remove it from memory.
+
+Q23. Calculate and print the sum of x = 5 and y = 7.
+
+Q24. Pythonic Swapping: Swap two variables num1 and num2 without using a temporary variable.
+
+Q25. Multiply 5 by 8, store it in a variable result, and print it.
+
+Q26. Assign two values to two variables in a single line and print them.
+
+Q27. Error Handling: Create a message, print it, delete it, and try to print it again to observe the NameError.
+
+Q28. Create variables for first and last names and print them side-by-side.
+
+Q29. Update a variable num by adding 5 to its existing value.
+
+Q30. Store the string "Hello" in a variable named greeting and print it.

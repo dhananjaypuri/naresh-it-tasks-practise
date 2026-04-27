@@ -1,0 +1,63 @@
+Q1. Create a script that takes two inputs using the eval() function and prints their sum.
+
+Q2. Write a program to accept a float number from the user, print the value, and display its data type.
+
+Q3. Take the user's current age as input and calculate how many years are left until they reach 100 years old.
+
+Q4. Prompt the user for their first and last names separately, then print them together as a full name.
+
+Q5. Circle Area: Accept the radius as a float and calculate the area of a circle using the formula πr 
+2
+  (using 3.14 for π).
+
+Q6. Take a number as input using eval() and print the result of that number multiplied by 2.
+
+Q7. Write a program that accepts a mathematical expression as a string input and evaluates it using eval().
+
+Q8. Accept an integer from the user and print the result of adding 10 to it.
+
+Q9. Type Conversion: Accept a float number from the user, print it, and then print its integer equivalent using int().
+
+Q10. Create a basic greeting script that takes a name as input and prints "Hello [name]".
+
+Q11. Repeat the process of taking two inputs via eval() and printing their sum.
+
+Q12. Accept two numbers, x and y. Calculate their product and then print the value of the product minus y.
+
+Q13. Assign the boolean value True to a variable x. If x is true, print the data type of x.
+
+Q14. Given a = 17 and b = 4, print the result of the division (/) and the remainder (%).
+
+Q15. Take a number 6, multiply it by 10, and print the result after subtracting 5.
+
+Q16. Find the product of 2, 3, and 4, then subtract 4 from the total and print the result.
+
+Q17. Place Value: Given three digits a=5, b=6, c=9, form the number 569 mathematically and print it.
+
+Q18. Increment the variable num = 99 by 1 using the += operator and print the result.
+
+Q19. Take num = 4, calculate its square (num 
+2
+ ), subtract 1, and print the result.
+
+Q20. Subtract 25 from 10 and print the resulting negative value.
+
+Q21. Add two float values 1.234 and 2.456 and print the sum.
+
+Q22. Calculate the area of a circle with a radius of 2.5 using 3.14 for the value of π.
+
+Q23. Multiply a large integer 1000 by a float 2.5 and print the result.
+
+Q24. Add a float (2.5) and an integer (4). Print the sum and its resulting data type.
+
+Q25. Calculate the average of three float numbers: 2.5, 3.5, and 7.0.
+
+Q26. Assign 4 to a and 8.0 to b. Print the data types of both variables.
+
+Q27. Multiply an integer 4 by a float 2.0 and print the resulting product.
+
+Q28. Dynamic Typing: Print the data type of the number 5, then divide it by 2 and print the data type of the result.
+
+Q29. Check the boolean truth value of the integer 20 and print it.
+
+Q30. Check the boolean truth value of the integer 0 and print it.

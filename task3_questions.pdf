@@ -1,0 +1,63 @@
+I have compiled the questions based on the string manipulation logic provided in your task3.py script. You can copy the content below and paste it into a document editor (like Word or Google Docs), then use "Save as PDF" to create your file.
+
+Python Programming: Task 3 - Exercises (Strings)
+Questions and Problem Statements
+Q1. Write a program to take a name as input and print it in reverse using string slicing.
+
+Q2. Palindrome Check: Accept a string from the user and check if it reads the same forward and backward.
+
+Q3. Take the string "How are you doing today ?" and replace all spaces with underscores (_).
+
+Q4. Given the string "banana", count and print how many times the letter "a" appears.
+
+Q5. Find and print the index of the first occurrence of the letter "a" in the word "banana".
+
+Q6. Convert the string "openai" to all uppercase letters.
+
+Q7. Take a string in all caps, such as "HELLO WORLD", and ensure it remains uppercase using the .upper() method.
+
+Q8. Concatenate two separate string variables, "Hello" and "World", with a space between them.
+
+Q9. Given the word "programming", remove all occurrences of the letter "m" and print the result.
+
+Q10. String Slicing: Extract and print the characters from index 3 to 6 (inclusive) from the word "programming".
+
+Q11. Calculate and print the total length (number of characters) of the string "Hello World".
+
+Q12. In the string "hello_everyone", replace the word "everyone" with "there".
+
+Q13. Replace all spaces in the sentence "hello world how are you" with hyphens (-).
+
+Q14. Use a string method to remove leading and trailing whitespace from the string " messy text ".
+
+Q15. Check if the string "Hi there " starts with the prefix "Hi" and print the boolean result.
+
+Q16. Check if the string "I am running" ends with the suffix "ing" and print the boolean result.
+
+Q17. Format the string "welcome to the jungle" so that only the first letter of the sentence is capitalized.
+
+Q18. Joining Lists: Take the list ["I", "love", "coding."] and join the elements into a single string separated by spaces.
+
+Q19. Convert the string "Python is fun" to lowercase and then replace all spaces with underscores.
+
+Q20. Sentence Reversal: Split the string "Hello World Python" into words, reverse the order of the words, and join them back into a single string.
+
+Q21. Convert the string "good morning world" to "Title Case" (where the first letter of every word is capitalized).
+
+Q22. Count the total occurrences of the word "apple" in the string "apple banana apple mango apple".
+
+Q23. Compare the first and last characters of the word "racecar" and print whether they are the same.
+
+Q24. Advanced Slicing: Given the string "aXbYcZd", extract every second character starting from index 1.
+
+Q25. Character Swap: Create a new string from "Tomorrow" where the first and last characters are swapped.
+
+Q26. Insert a hash symbol (#) between every single character in the string "Tomorrow is holiday".
+
+Q27. Data Cleaning: Remove the special characters @, !#, and $ from the string "he@llo!#wo$rld".
+
+Q28. Compare the results of the .find() and .index() methods when searching for the letter "i" in "mississippi".
+
+Q29. Remove all occurrences of the word "hello" from the string "hello world hello" and trim any remaining edge spaces.
+
+Q30. Case Swapping: Convert all uppercase characters to lowercase and vice versa in the string "Hello WorLd".

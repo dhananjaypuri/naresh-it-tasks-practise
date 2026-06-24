@@ -241,24 +241,10 @@ graph LR
     style H fill:#c8e6c9
 ```
 
-## Technologies Used
-
 - **Python 3.x**
 - **Pandas:** Data manipulation and analysis
 - **NumPy:** Numerical computations
 - **Scikit-learn:** Preprocessing (LabelEncoder, OrdinalEncoder, OneHotEncoder)
-
-## Project Structure
-
-```
-ML/
-├── loan_project.ipynb                    # Main notebook with full pipeline
-├── LoanData.csv                          # Original raw dataset
-├── Cleaned_tranformed_loandata.csv       # Processed output dataset
-├── linear_reg_model.ipynb                # Linear regression model
-├── train_split_cv.ipynb                  # Train-test split and cross-validation
-└── README.md                             # This file
-```
 
 ## Usage
 
